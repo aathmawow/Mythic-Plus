@@ -33,7 +33,7 @@
 - **Ashvane Commander**
 	- _Azerite Charge_ - targeted AoE. Leaves a heavy DoT.
 		- Pre-shield target then send heavy healing in.
-			- _Fade_, _Protective Light_, _Power Word: Shield_ if on you.
+			- _Fade_, _Protective Light_, _Shield_ if on you.
 			- Great option for _Shadowmeld_.
 		- Chained _Rapture_ shields are a good way to counter.
 		- May need to _Pain Suppression_ the target depending on if they're pressing a defensive or not.
@@ -83,9 +83,9 @@
 ## Third Boss: Hadal Darkfathom
 - _Break Water_ - leaves swirlies under players that pop for extremely heavy damage.
 	- Pre-position away from the statue and leave room for tank to dodge _Crashing Tide_.
-	- _Fade_, _Protective Light_ and _Power Word: Shield_ every cast.
-		- Other classes with weak defensives (Shaman) will need _Power Word: Shield_.
-		- Generally try to have three _Power Word: Shields_ out - start shielding ~12s before cast unless using _Rapture_.
+	- _Fade_, _Protective Light_ and _Shield_ every cast.
+		- Other classes with weak defensives (Shaman) will need _Shield_.
+		- Generally try to have three _Shields_ out - start shielding ~12s before cast unless using _Rapture_.
 	- _Mindbender_ timing, but not really a healing check.
 	- Send _Barrier_ after the swirlies spawn.
 - _Crashing Tide_ - line nuke for tank to dodge.

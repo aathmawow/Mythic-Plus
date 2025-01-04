@@ -11,7 +11,7 @@
 	- Applies _Tainted Slash_ - stacking bleed.
 ## Side Boats
 - **Sureki Webmage** - _Bursting Cocoon_, DoT with a pop on the final tick.
-	- _Radiance_ for extra _defensive Penance_ bolts, _Smite_ and _Power Word: Shield_ for last tick.
+	- _Radiance_ for extra _defensive Penance_ bolts, _Smite_ and _Shield_ for last tick.
 	- Can be immuned with _Divine Shield_, _Anti-magic Shell_, etc.
 - **Nightfall Commander** - kick _Abyssal Howl_.
 	- Applies _Tainted Slash_ - stacking bleed.
@@ -38,7 +38,7 @@
 - Try not to send _Mindbender_ late if heading to **Ascendant Viscoxria** next.
 ## Miniboss: Deathscreamer Ikentak (Inn/Orb)
 - Dangerous overlap between _Dark Orb_ pop and _Abyssal Blast_ DoT.
-	- Need _Fade_, _Protective Light_ and _Power Word: Shield_ if _Abyssal Blast_ is on during _Dark Orb_ pop.
+	- Need _Fade_, _Protective Light_ and _Shield_ if _Abyssal Blast_ is on during _Dark Orb_ pop.
 - _Abyssal Blast_ - heavy DoT that is good _Mindbender_ timer.
 	- Can LoS _Abyssal Blast_ on corner of building to push cast towards someone with defensives.
 	- Send _defensive Penance_ and layer _Rapture_.
@@ -73,7 +73,7 @@
 ## Third Boss: Rasha'nan
 ### First Phase
 - _Rolling Acid_ - targeted damage.
-	- _Power Word: Shield_ target.
+	- _Shield_ target.
 	- May want external if they're out of defensives.
 - _Erosive Spray_ - heavy AoE damage and lingering DoT.
 	- _Mindbender_ ~5-7s before cast then _Smite_ while waiting.

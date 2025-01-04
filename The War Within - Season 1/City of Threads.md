@@ -91,7 +91,7 @@
 - _Umbral Weave_ - heavy AoE damage and web root that needs to be broken.
 	- Stack for damage so the webs can be cleaved down.
 	- _Blessing of Freedom_ is your buddy.
-	- _Fade_, _Protective Light_, _Power Word: Shield_ every time.
+	- _Fade_, _Protective Light_, _Shield_ every time.
 - _Web Bolt_ - targeted spell. Hurts. Kick it.
 - Don't send _Mindbender_ late on the fight, it's needed at the start of the **Hulking Warshell**.
 ### Hulking Warshell

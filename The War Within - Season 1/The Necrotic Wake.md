@@ -34,7 +34,7 @@
 		- _Blessing of Sacrifice_ with _Righteous Protection_ prevents all damage for every other cast.
 		- _Blessing of Spellwarding_ prevents all damage.
 	- Warriors can _Spell Reflect_ every cast.
-	- Need _Fade_, _Protective Light_, _Power Word: Shield_ and possibly _Pain Suppression_/_Desperate Prayer_ if targeted.
+	- Need _Fade_, _Protective Light_, _Shield_ and possibly _Pain Suppression_/_Desperate Prayer_ if targeted.
 		- Can _Barrier_ a cast too.
 	- Watch for classes with few defensives (Shaman) to run dry and _Pain Suppression_ them.
 	- Kite the **Carrion Worms** while they get killed. _Psychic Scream_ and _Void Tendrils_ can be helpful.
