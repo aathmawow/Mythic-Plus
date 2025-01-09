@@ -1,3 +1,8 @@
+## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAWmlZbwMzYMLjhBjhZhtZaMxyAmZAQBY2mtNwYzG
+```
+- _Void Shield_ is useful if you pre-shield for the AoE damage on second and third bosses. It helps cover an extra tick of damage. It's not much but it's better than nothing.
 ## First Pull
 - **Nightfall Ritualist** casts _Tormenting Ray_ - biggest danger
 	- First two targets are random, but not-tank.

@@ -1,4 +1,7 @@
 ## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAADw2sMzYwyYMzMmZzsNzMzMMAAAAAAAAAAAwysMbDmZGMLMMGjhZhtZaMxyAmZAQBY2mtNwYzG
+```
 - _Phantasm_ - dispel snare DoT on second boss.
 - _Mass DIspel_ - dispel snare DoT on second boss.
 ## Umbral Bazaar

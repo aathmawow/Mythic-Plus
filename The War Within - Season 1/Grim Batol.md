@@ -1,3 +1,7 @@
+## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGjZhhBjhZhtZaMxyAmZAQBY2mtNwYzG
+```
 ## First Pull
 ### Dragon Only
 - **Twilight Destroyer** (dragon)

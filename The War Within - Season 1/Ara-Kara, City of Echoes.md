@@ -1,3 +1,9 @@
+## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGMLMMYMMLb2mpxELDYmBAFgZb22AjNb
+```
+- _Void Tendrils_ is nice for rooting the spider adds on **Avanoxx**
+	- Has some use with the **Engorged Crawler** to open up space if your melee is melee-brained and doesn't want to get out of _Toxic Rupture_.
 ## Pre-Pull
 - Can get Tailoring buff (_Silk Wrap_) from **Discordant Attendant** (corpse) prior to starting the key.
 	- Gives a targeted stun on the extra-action button for 1 minute.

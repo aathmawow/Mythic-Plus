@@ -1,3 +1,8 @@
+## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGjZhhBjhZhtZaMxyAmZAQBY2mtNwYzG
+```
+- _Phantom Reach_ lets you easily outrange the slams from the **Earth Infused Golems** in the first hallway. Stand a little outside 40 and you can just free-cast without having to worry about your own health. You can also bounce _Radiance_ off the tank to get an extra 30 yds of reach for DPS standing on the far side of the **Golems**.
 ## First Pull
 - _Bloodlust_ and all cooldowns!
 - Sometimes just the hallway, sometimes to one of the extra _Earth Infused Golem_ packs in boss room.

@@ -1,5 +1,8 @@
 ## Talents
-- _Shackle Undead_ - very useful for second boss and **Brittlebone Mages** to stop _Frostbolt Volley_
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAWmlZbwMzgZxMMYMmZhtZaGxyAmZAQBY2mtNwYzG
+```
+- _Shackle Undead_ - very useful for second boss and **Brittlebone Mages** to stop _Frostbolt Volley_.
 - _Dispel Magic_ - useful for **Nar'zudah** to dispel _Dark Shroud_ (unnecessary if you have another purge).
 - _Leap of Faith_ - if running with an Evoker, _Rescue_-mount skips lets you grab the last person.
 - _Improved Purify_ - disease cleanse.

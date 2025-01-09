@@ -1,4 +1,7 @@
 ## Talents
+```
+CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGjZhhBjhZhtZaMxyAmZAQBY2mtNwYzG
+```
 - _Improved Purify_ - disease cleanse!
 - _Mass Dispel_ - extra dispel buffer for fourth boss.
 ## First Pull
