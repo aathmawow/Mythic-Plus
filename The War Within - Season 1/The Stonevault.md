@@ -27,6 +27,8 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGjZhhBjhZhtZ
 		- Pre-_Atonement_ with _Rapture_ (if it's up), _Smiting_ between casts for _Darkness from Light_ (4pc)
 	- _Halo_ is actually alright here, but doesn't feel good later.
 - _Seismic Smash_ - tankbuster that applies magic DoT (_Seismic Reverberation_).
+	- _Mind Blast_ as the cast is about halfway through:
+		- Lets you fit _Dark Reprimand_ for the first DoT; _Radiance_, _Dark Reprimand_, _Collapsing Void_ covers the bigger four DoTs.
 	- Dispel applies _Stone Shield_, 50% DR for 6s.
 	- Dispel before or during subsequent _Seismic Smash_ casts or when tank calls for dispel.
 	- Can squeeze casts in during the cast bar for _Seismic Smash_, which helps with overlap on _Earth Shatterer_ and _Refracting Beam_
