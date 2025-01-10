@@ -8,6 +8,7 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGMLMMYMMLb2m
 - Can get Tailoring buff (_Silk Wrap_) from **Discordant Attendant** (corpse) prior to starting the key.
 	- Gives a targeted stun on the extra-action button for 1 minute.
 ## First Pull - Ixin
+- Do not _Mind Blast_ **Ixin**! The _Entropic Rift_ will pop up and miss all other ground-bound mobs.
 - Large pull to **Ixin**.
 	- Use _Silk Wrap_ if you have it from the pre-pull.
 	- First _Bloodlust_ here.
@@ -15,6 +16,7 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGMLMMYMMLb2m
 - Ensure **Trilling Attendants**' _Resonant Barrages_ are kicked or stopped.
 - Ensure **Ixin**'s _Horrifying Shrill_ is kicked or stopped (AoE fear).
 ## Second Platform - Nakt
+- DO _Mind Blast_ **Nakt** - the whiff doesn't matter and the summons are small.
 - Clear trash around **Nakt**.
 	- **Engorged Crawlers** randomly target _Venomous Spit_ - large poison DoT.
 		- _Poison Cleansing Totem_ and poison cleanses are high value here.
@@ -24,6 +26,8 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGMLMMYMMLb2m
 	- Send _Silk Wrap_ after first tick of damage if you have it, otherwise...
 	- Defensive on pull, including party defensive (e.g., _Barrier_, _Zephyr_, etc.)
 	- Hopefully dies before second _Call of the Brood_ - if not, be prepared with _Mindbender_, _Mind Blast_, double-_Radiance_, _Dark Reprimand (Penance)_ combo.
+## Third Platform - Atik
+- Maybe _Mind Blast_ **Atik**? Depends on the pull.
 ## First Boss: Avanoxx
 - _Alerting Shrill_ - short duration, high AoE pulsing damage that summons adds:
 	- Requires defensives - ideally _Fade_, _Protective Light_ and a _Power Word: Shield_.
@@ -33,6 +37,7 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGMLMMYMMLb2m
 	- _Barrier_ early so that everyone piles in.
 - _Gossamer Onslaught_ - dance party to avoid swirlies. Swirlies leave behind webbing that cuts off the platform.
 	- Move towards edge of the platform prior to cast then dance in the direction the tank goes.
+	- _Mind Blast_ ~1s before the cast starts and the _Entropic Rift_ will pop after damage ends.
 	- At longer range and higher haste values (~25-30%?), there's time to stutter step _Mind Blast_ and _Smite_ casts between swirlies.
 	- Move back towards the tank for _Alerting Shrill_.
 - _Voracious Bite_ - tank buster.
