@@ -16,9 +16,9 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAzysMbDmZGjZhhBjhZhtZ
 - **Repurposed Loaderbot** - _Pulverizing Pounce_ - dodge it.
 	- Playing at distance for the _Ground Pound_ damage - don't get locked out of range by running backwards, try to sidestep or run forward.
 ## First Boss: E.D.N.A.
-- _Mindbender_ on pull, will be farmed back in time for _Earth Shatter_.
+- _Mindbender_ on pull, will be farmed back in time for _Earth Shatterer_.
 - Easiest _Volatile Spike_ order for Disc: 1, 1, 4
-	- Pop one spike with _Refracting Beam_, twicej, pop 4 spikes with _Earth Shatter_.
+	- Pop one spike with _Refracting Beam_, twice, pop 4 spikes with _Earth Shatterer_.
 - _Refracting Beam_:
 	- _Radiance_, _Smite_, _Penance_
 - _Earth Shatterer_:

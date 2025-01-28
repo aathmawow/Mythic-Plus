@@ -33,7 +33,7 @@ CAQAAAAAAAAAAAAAAAAAAAAAAADw2sMzYwyYMzMmZzsNzMzMMAAAAAAAAAAAwysMbDmZGMLMMGjhZhtZ
 	- Ideally send stops while _Void Rush_ damage is out to offset the damage.
 - **Web Marauder** (2-4th pack) - _Rigorous Jab_, stacking tank damage.
 - **Covert Webmancer** (4th pack) - _Mending Web_, heal. Priority kick.
-## Fangs of the Queen
+## Second Boss: Fangs of the Queen
 - Second _Bloodlust_.
 -  Don't open with _Mindbender_ - send _Rapture_ shield for _Knife Throw_ damage.
 ### Phase One (Ice Sickles)
@@ -112,8 +112,10 @@ CAQAAAAAAAAAAAAAAAAAAAAAAADw2sMzYwyYMzMmZzsNzMzMMAAAAAAAAAAAwysMbDmZGMLMMGjhZhtZ
 - _Splice_ - heavy AoE DoT.
 	- Send _Mindbender_ ~5s before _Splice_.
 - _Tremor Slam_ - heavy AoE burst damage.
+	- _Fade_, _Protective Light_, _Power Word: Shield_ on 2 for every cast
 	- Send _Mind Blast_ 5s before - _Entropic Rift_ will pop 1s after the damage.
 - _Umbral Weave_ - heavy AoE damage and web roots that need to be broken.
+	- _Fade_, _Protective Light_, _Power Word: Shield_ on 2 for every cast
 	- Send _Mind Blast_ 5s before - _Entropic Rift_ will pop 1s after the damage.
 - _Shifting Anomalies_ - swirlies that move around. Don't get hit.
 	- Tend to stay near inside or outside of room and move in circles with the tank using _Penance_.

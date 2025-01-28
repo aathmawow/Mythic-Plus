@@ -32,7 +32,8 @@ CAQAAAAAAAAAAAAAAAAAAAAAAAA2mlZGDWGjZmxMbmtZmZmhBAAAAAAAAAAAWmlZbwMzgZxMMYMmZhtZ
 ## First Boss: Blightbone
 - Not a high-damage fight but has moments of extreme damage that needs to be defensived.
 - _Heaving Retch_ - targeted conal that spawns **Carrion Worms**. Extremely heavy damage.
-	- Target away from the rest of the party.
+	- Target away from the rest of the party - behind boss.
+		- Spawns **Carrion Worms** where the boss spews so letting them lag behind where you're moving is important.
 	- Protection Paladins can stop the first three casts:
 		- _Blessing of Sacrifice_ with _Righteous Protection_ prevents all damage for every other cast.
 		- _Blessing of Spellwarding_ prevents all damage.
